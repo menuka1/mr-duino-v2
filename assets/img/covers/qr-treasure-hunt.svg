@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-label="QR Treasure|Hunt project cover">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061230"/><stop offset="1" stop-color="#13306f"/></linearGradient>
+<radialGradient id="r" cx=".78" cy=".45" r=".5"><stop offset="0" stop-color="#ff7a00" stop-opacity=".45"/><stop offset="1" stop-color="#ff7a00" stop-opacity="0"/></radialGradient>
+<pattern id="d" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#fff" opacity=".12"/></pattern></defs>
+<rect width="1200" height="675" fill="url(#b)"/><rect width="1200" height="675" fill="url(#d)"/><rect width="1200" height="675" fill="url(#r)"/>
+<rect x="70" y="90" width="150" height="40" rx="20" fill="#ff7a00"/><text x="145" y="118" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="22" fill="#fff">WEB</text>
+<text y="300" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="64" fill="#fff"><tspan x="70" dy="0">QR Treasure</tspan><tspan x="70" dy="76">Hunt</tspan></text>
+<text x="70" y="610" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="26" fill="#ffb35c" letter-spacing="4">MR DUINO</text>
+<rect x="630" y="140" width="400" height="320" rx="20" fill="#0b1f4d" stroke="#ff7a00" stroke-width="7"/><path d="M630 200h400" stroke="#ff7a00" stroke-width="6"/>
+<g fill="#ffb35c"><circle cx="665" cy="170" r="8"/><circle cx="695" cy="170" r="8"/><circle cx="725" cy="170" r="8"/></g>
+<rect x="660" y="230" width="200" height="26" rx="8" fill="#ff7a00"/><rect x="660" y="275" width="340" height="14" rx="7" fill="#1b3b82"/><rect x="660" y="305" width="300" height="14" rx="7" fill="#1b3b82"/><rect x="660" y="350" width="150" height="80" rx="12" fill="#1b3b82"/><rect x="830" y="350" width="170" height="80" rx="12" fill="#ffb35c"/></svg>

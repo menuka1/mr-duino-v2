@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-label="Smart Dog|Feeder project cover">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061230"/><stop offset="1" stop-color="#13306f"/></linearGradient>
+<radialGradient id="r" cx=".78" cy=".45" r=".5"><stop offset="0" stop-color="#ff7a00" stop-opacity=".45"/><stop offset="1" stop-color="#ff7a00" stop-opacity="0"/></radialGradient>
+<pattern id="d" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#fff" opacity=".12"/></pattern></defs>
+<rect width="1200" height="675" fill="url(#b)"/><rect width="1200" height="675" fill="url(#d)"/><rect width="1200" height="675" fill="url(#r)"/>
+<rect x="70" y="90" width="150" height="40" rx="20" fill="#ff7a00"/><text x="145" y="118" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="22" fill="#fff">IoT</text>
+<text y="300" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="64" fill="#fff"><tspan x="70" dy="0">Smart Dog</tspan><tspan x="70" dy="76">Feeder</tspan></text>
+<text x="70" y="610" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="26" fill="#ffb35c" letter-spacing="4">MR DUINO</text>
+<g stroke="#ffb35c" stroke-width="5" stroke-linecap="round" fill="none"><path d="M760 150h120v90M760 250h200M820 330h160v70M700 400h120"/></g>
+<g fill="#0b1f4d" stroke="#ff7a00" stroke-width="5"><circle cx="880" cy="240" r="14"/><circle cx="960" cy="250" r="14"/><circle cx="980" cy="400" r="14"/></g>
+<rect x="640" y="240" width="170" height="170" rx="22" fill="#0b1f4d" stroke="#ff7a00" stroke-width="6"/><rect x="680" y="280" width="90" height="90" rx="10" fill="#ff7a00"/>
+<g stroke="#ffb35c" stroke-width="6" stroke-linecap="round"><path d="M670 240v-30M725 240v-30M780 240v-30M670 410v30M725 410v30M780 410v30M640 290h-30M640 345h-30M810 290h30M810 345h30"/></g></svg>

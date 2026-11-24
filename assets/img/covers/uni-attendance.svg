@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-label="Uni Attendance|App project cover">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061230"/><stop offset="1" stop-color="#13306f"/></linearGradient>
+<radialGradient id="r" cx=".78" cy=".45" r=".5"><stop offset="0" stop-color="#ff7a00" stop-opacity=".45"/><stop offset="1" stop-color="#ff7a00" stop-opacity="0"/></radialGradient>
+<pattern id="d" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#fff" opacity=".12"/></pattern></defs>
+<rect width="1200" height="675" fill="url(#b)"/><rect width="1200" height="675" fill="url(#d)"/><rect width="1200" height="675" fill="url(#r)"/>
+<rect x="70" y="90" width="150" height="40" rx="20" fill="#ff7a00"/><text x="145" y="118" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="22" fill="#fff">MOBILE</text>
+<text y="300" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="64" fill="#fff"><tspan x="70" dy="0">Uni Attendance</tspan><tspan x="70" dy="76">App</tspan></text>
+<text x="70" y="610" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="26" fill="#ffb35c" letter-spacing="4">MR DUINO</text>
+<rect x="700" y="110" width="230" height="440" rx="36" fill="#0b1f4d" stroke="#ff7a00" stroke-width="7"/><rect x="720" y="150" width="190" height="320" rx="14" fill="#102a63"/>
+<rect x="740" y="175" width="150" height="26" rx="8" fill="#ff7a00"/><rect x="740" y="220" width="150" height="70" rx="10" fill="#1b3b82"/><rect x="740" y="305" width="70" height="70" rx="10" fill="#ffb35c"/><rect x="820" y="305" width="70" height="70" rx="10" fill="#1b3b82"/><rect x="740" y="390" width="150" height="14" rx="7" fill="#1b3b82"/><circle cx="815" cy="510" r="14" fill="#ff7a00"/></svg>
